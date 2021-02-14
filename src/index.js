@@ -1,8 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Root from 'Root'
-import reportWebVitals from './reportWebVitals';
 import './index.css'
+import App from 'App'
 
-ReactDOM.render(<Root />, document.getElementById('root'))
-reportWebVitals()
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+)
