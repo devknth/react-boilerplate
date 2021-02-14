@@ -4,9 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps taken here
 
-### Delete files
-
-Delete unnecessary files:
+### Delete unnecessary files
 * src/App.js
 * src/App.css
 * src/App.test.js
@@ -35,16 +33,11 @@ Delete unnecessary files:
 ```
 
 ### Create folders
-
-Create folders:
 * src/components
 * src/pages
 * src/lib
 
-### Create files
-
-Create default js files
-
+### Create default js files
 * src/App.js
 * src/index.js
 * src/components/index.js
