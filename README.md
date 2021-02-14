@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * src/logo.svg
 
 ### Add jsconfig.json
-```
+```json
 {
     "compilerOptions": {
         "baseUrl": "src"
