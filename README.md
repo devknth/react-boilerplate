@@ -12,12 +12,24 @@ Delete unnecessary files:
 * src/App.test.js
 * src/logo.svg
 
-### install react-route-dom 
+### Add jsconfig.json
+```
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": [
+        "src"
+    ]
+}
+```
+
+### Install react-route-dom 
 ```
 % yarn add react-router-dom
 ```
 
-### install query-string
+### Install query-string
 ```
 % yarn add query-string
 ```
